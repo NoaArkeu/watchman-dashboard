@@ -1,13 +1,13 @@
 # 🌍 Watchman Dashboard
 
-**Last Update:** `2026-03-22 11:48:43 (UTC)`
+**Last Update:** `2026-03-22 13:56:31 (UTC)`
 
 ### Current Weather in Europe
-- warsaw: ⛅️  +11°C
-- rome: ⛅️  +33°C
-- berlin: ☀️   +12°C
-- paris: ☀️   +12°C
-- london: ⛅️  +8°C
+- rome: ð¦   +34Â°C
+- london: âï¸   +11Â°C
+- warsaw: âï¸   +14Â°C
+- berlin: âï¸   +14Â°C
+- paris: â  +14Â°C
 
 
 ---
